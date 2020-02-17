@@ -9,5 +9,4 @@ The tree I implemented at gtest should look like this:
       / \   /
      4   7 13 
 
->>Run time
-Run time of BFS should be O(N)
+>>Run time of BFS should be O(N)
